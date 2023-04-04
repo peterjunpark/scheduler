@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Work Day Scheduler ![Last commit badge](https://img.shields.io/github/last-commit/qkr0wns/scheduler)
 
 ## Description
 
