@@ -33,7 +33,7 @@ To log an event,
 
 ## Credits
 
-- Starter code (HTML, CSS, Bootstrap layout) : [UofT SCS Coding Bootcamp]
+- Starter code (HTML, CSS, Bootstrap layout) : UofT SCS Coding Bootcamp
 
 ## License
 
